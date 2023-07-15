@@ -9,9 +9,8 @@ export default function Home() {
         <Link
           href="/another"
           className="text-2xl font-bold text-zinc-800 hover:text-orange-700 transition-colors duration-300"
-          prefetch={false}
         >
-          Go Home
+          Go Another
         </Link>
       </div>
     </main>
