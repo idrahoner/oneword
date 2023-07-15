@@ -12,6 +12,12 @@ export default function Another() {
         >
           Go Home
         </Link>
+        <a
+          href="/oneword"
+          className="text-2xl text-zinc-800 decoration-solid hover:text-orange-700 transition-colors duration-300"
+        >
+          Ordinary link to go home
+        </a>
       </div>
     </main>
   );
